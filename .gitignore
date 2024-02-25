@@ -1,0 +1,6 @@
+terraform.tfvars
+beta.tf
+s3-website/.terraform
+*.hcl
+*.backup
+*.tfstate
